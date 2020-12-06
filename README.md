@@ -46,7 +46,11 @@ This project has been done in pair programming with [Adam Louali](https://github
 
 * [Vue js](https://vuejs.org/)
 * [Laravel](https://laravel.com)
-
+* [Cloudinary Api](https://cloudinary.com/)
+* [Bootstrap Vue](https://bootstrap-vue.org/)
+* [Tailwind css](https://tailwindcss.com/)
+* [Animate css](https://animate.style/)
+* [Unsplash Api](https://unsplash.com/developers)
 
 <!-- GETTING STARTED -->
 ## Getting Started
