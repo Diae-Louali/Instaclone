@@ -72,7 +72,7 @@ NOTICE : you can global search for " ****REMOVED**** " to easily locate all the 
 * Clone the repo and cd into the project's folder
 
    ```sh
-   git clone https://github.com/AdamOB1290/instaCLone.git
+   git clone https://github.com/Diae-Louali/Instaclone.git
    ```
    ```sh
    cd instaCLone
