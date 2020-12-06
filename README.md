@@ -40,7 +40,7 @@ To see the demo, visit this link : https://www.youtube.com/watch?v=lcjqbgalgwI
 
 This is a clone of instagram that includes stories, realtime chat & notifications among other features. It is my second project after only a couple of weeks of being introduced to Laravel and Vue js, the focus was on being able to make things work rather than doing it in the most optimized way. 
 
-This project has been done in pair programming with [Diae Louali](https://github.com/Diae-Louali). Neither of us had any experience with frameworks prior to this project.
+This project has been done in pair programming with [Adam Louali](https://github.com/AdamOB1290). Neither of us had any experience with frameworks prior to this project.
 
 ### Built With
 
@@ -146,9 +146,9 @@ NOTICE : you can global search for " ****REMOVED**** " to easily locate all the 
 <!-- CONTACT -->
 ## Contact
 
-Adam LOUALI - [LinkedIn](https://www.linkedin.com/in/adam-louali/) - loualiadam0@gmail.com
+Diae Louali - [LinkedIn](https://www.linkedin.com/in/diae-louali-895b2b127/) - Loualidiae@outlook.fr
 
-Project Link: [https://github.com/AdamOB1290/instaCLone](https://github.com/AdamOB1290/instaCLone)
+Project Link: [https://github.com/Diae-Louali/Instaclone/](https://github.com/Diae-Louali/Instaclone/)
 
 
 
